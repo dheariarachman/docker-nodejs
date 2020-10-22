@@ -1,0 +1,12 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Docker Nodejs Example",
+  "main": "index.js",
+  "repository": "git@github.com:dheariarachman/docker-nodejs.git",
+  "author": "Dhea Aria Rachman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
